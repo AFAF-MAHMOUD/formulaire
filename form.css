@@ -1,0 +1,41 @@
+.information *{
+    width: 95%;
+   padding: 10px;
+    display: block;
+   
+  
+}
+label{
+   
+    font-size: 20px;
+    color: white;
+}
+textarea{ 
+    background-color: rgb(52, 48, 75);
+
+}
+.formvalidation input{
+    border: solid 2px rgb(52, 48, 75);
+    border-radius: 5px;
+    background-color: rgb(52, 48, 75);
+
+    color: white;
+   
+}
+ body{
+    margin: 2% 35%;
+    background-color: rgb(74, 49, 69);
+  }
+  .special{
+    
+    border: solid 2px rgb(52, 48, 75) ;
+      color: white;
+      margin-bottom: 20px;
+  }
+  .special textarea{
+      width: 95%;
+  }
+  .sub{
+     width:  100%;
+  }
+ 
